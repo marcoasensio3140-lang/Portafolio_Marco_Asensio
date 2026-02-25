@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="diseno.css">
 </head>
 <body>
-  <!-- Header -->
+  <!-- header -->
   <header>
     <nav>
       <h1>Marco Asensio</h1>
@@ -21,7 +21,7 @@
     </nav>
   </header>
 
-  <!-- Sección presentación -->
+  <!-- presentacion -->
   <section class="hero">
     <h2>Desarrollador Web y Mobile</h2>
     <p>
@@ -31,13 +31,13 @@
     <a href="#contacto" class="btn">Contactame</a>
   </section>
 
-  <!-- Sobre mí -->
+  <!--sobre mi -->
   <section id="sobre-mi">
     <h2>Sobre mi</h2>
     <p>Soy programador con conocimientos en frontend (HTML, CSS), backend (PHP, Java, JS), bases de datos (MySQL, SQL) y también experiencia en C. Actualmente me especializo en Flutter y Laravel.</p>
   </section>
 
-  <!-- Tecnologías -->
+  <!--tecnologias-->
   <section id="stack">
     <h2>Tecnologias</h2>
     <ul class="skills">
@@ -54,7 +54,7 @@
     </ul>
   </section>
 
-  <!-- Proyectos -->
+  <!--proyectos -->
   <section id="proyectos">
     <h2>Proyectos</h2>
     <div class="proyectos-grid">
@@ -80,13 +80,13 @@
     </div>
   </section>
 
-  <!-- Experiencia -->
+  <!--experiencia -->
   <section id="experiencia">
     <h2>Experiencia</h2>
     <p><b>Pasantia (2018):</b> Instalacion de alarmas, audio y video en vehiculos</p>
   </section>
 
-  <!-- Contacto -->
+  <!--contacto -->
   <section id="contacto">
     <h2>Contacto</h2>
     <p>Email: <a href="mailto:marcoasensio3140@gmail.com">marcoasensio3140@gmail.com</a></p>
@@ -105,3 +105,4 @@
   </footer>
 </body>
 </html>
+
