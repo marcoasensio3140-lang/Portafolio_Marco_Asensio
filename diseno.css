@@ -7,7 +7,7 @@
 
 body {
   line-height: 1.6;
-  background: #121212; /* fondo oscuro */
+  background: #121212; 
   color: #f1f1f1;
 }
 
@@ -36,7 +36,7 @@ header ul li a {
 }
 
 header ul li a:hover {
-  color: #9b59b6; /* violeta en hover */
+  color: #9b59b6; 
   border-bottom: 2px solid #9b59b6;
 }
 
@@ -79,7 +79,7 @@ header ul li a:hover {
 }
 
 .btn:hover {
-  background: #9b59b6; /* violeta */
+  background: #9b59b6;
   color: white;
 }
 
@@ -91,12 +91,12 @@ section {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  list-style: none; /* 🔥 elimina los puntos de la lista */
+  list-style: none; 
   padding: 0;
 }
 
 .skills li {
-  background: #9b59b6; /* violeta */
+  background: #9b59b6; 
   color: white;
   padding: 0.5rem 1rem;
   border-radius: 20px;
@@ -104,7 +104,7 @@ section {
 }
 
 .skills li:hover {
-  box-shadow: 0 0 10px #9b59b6; /* glow violeta */
+  box-shadow: 0 0 10px #9b59b6; 
   transform: scale(1.05);
 }
 
@@ -125,7 +125,7 @@ section {
 
 .proyecto:hover {
   transform: translateY(-5px);
-  box-shadow: 0 5px 20px rgba(155, 89, 182, 0.4); /* sombra violeta */
+  box-shadow: 0 5px 20px rgba(155, 89, 182, 0.4); 
 }
 
 footer {
@@ -134,7 +134,7 @@ footer {
   text-align: center;
   padding: 1rem;
   margin-top: 2rem;
-  border-top: 2px solid #9b59b6; /* detalle sutil violeta */
+  border-top: 2px solid #9b59b6;
 }
 
 @media (max-width: 768px) {
@@ -170,12 +170,13 @@ footer {
   width: 150px;
   height: 150px;
   object-fit: cover;
-  border-radius: 65%; /* círculo perfecto */
-  border: 3px solid #9b59b6; /* borde violeta */
-  box-shadow: 0 0 15px rgba(155, 89, 182, 0.6); /* efecto glow suave */
+  border-radius: 65%;
+  border: 3px solid #9b59b6; 
+  box-shadow: 0 0 15px rgba(155, 89, 182, 0.6);
   transition: transform 0.3s ease;
 }
 
 .perfil:hover {
-  transform: scale(1.05); /* efecto zoom */
+  transform: scale(1.05); 
 }
+
